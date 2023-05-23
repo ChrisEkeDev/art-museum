@@ -10,3 +10,5 @@ const root = () => {
         </BrowserRouter>
     )
 }
+
+export default root;
